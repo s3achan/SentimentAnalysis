@@ -1,0 +1,18 @@
+# Data files
+*.csv
+*.zip
+
+# Kaggle credentials
+kaggle.json
+
+# Dataset folders
+data/
+.data/
+sentiment140/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
